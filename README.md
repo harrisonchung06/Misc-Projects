@@ -1,9 +1,15 @@
 # Misc or Single Day Projects 
 
 ## MonkeyType Project 
-Types really fast using Python and Selenium 
+Breaking MonkeyType typing records with Selenium and win32API 
 
 ## Food Chooser Project 
-Chooses a food based on a ZIP code given using Python and beautifulSoup 
+Chooses a restaurant based on a ZIP code with beautifulSoup
+
+## PI Project 
+Approximation of PI using integrals 
+
+## Coinflipper Project 
+A random probability distribution for a two sided coin
 
 
