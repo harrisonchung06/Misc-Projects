@@ -30,7 +30,7 @@ def get_cuisine_type():
 def food_chooser():
     return
 
-ZIP = 91789
+ZIP = XXXX
 AGENT = init_session(ZIP)
 
 '''
